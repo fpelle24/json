@@ -1,40 +1,40 @@
 {
-    "nombre": "Países",
+    "nombre": "paises",
     "listado": [
         {
-            "Nombre": "Brazil",
-            "Población": "211.000.000hab",
-            "Superficie": "8.516.000Km2",
-            "Idioma": "Portugués",
-            "Bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/300px-Flag_of_Brazil.svg.png"
+            "nombre": "Brazil",
+            "población": "211.000.000hab",
+            "superficie": "8.516.000Km2",
+            "idioma": "Portugues",
+            "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/300px-Flag_of_Brazil.svg.png"
         },
         {
-            "Nombre": "Argentina",
-            "Población": "44.900.000hab",
-            "Superficie": "2.780.400Km2",
-            "Idioma": "Español",
-            "Bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/200px-Flag_of_Argentina.svg.png"
+            "nombre": "Argentina",
+            "poblacion": "44.900.000hab",
+            "superficie": "2.780.400Km2",
+            "idioma": "Espaniol",
+            "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/200px-Flag_of_Argentina.svg.png"
         },
         {
-            "Nombre": "Chile",
-            "Población": "18.095.000hab",
-            "Superficie": "756.950Km2",
-            "Idioma": "Español",
-            "Bandera": "https://viajeaamerica.com/wp-content/uploads/2013/05/Bandera-chilena.jpg"
+            "nombre": "Chile",
+            "poblacion": "18.095.000hab",
+            "superficie": "756.950Km2",
+            "idioma": "Espaniol",
+            "bandera": "https://viajeaamerica.com/wp-content/uploads/2013/05/Bandera-chilena.jpg"
         },
         {
-            "Nombre": "Venezuela",
-            "Población": "28.515.800hab",
-            "Superficie": "912.050Km2",
-            "Idioma": "Español",
-            "Bandera": "4"
+            "nombre": "Venezuela",
+            "poblacion": "28.515.800hab",
+            "superficie": "912.050Km2",
+            "idioma": "Espaniol",
+            "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/200px-Flag_of_Venezuela.svg.png"
         },
         {
-            "Nombre": "Ecuador",
-            "Población": "17.037.000hab",
-            "Superficie": "256.370Km2",
-            "Idioma": "Español",
-            "Bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Ecuador_%281900%E2%80%932009%29.svg/300px-Flag_of_Ecuador_%281900%E2%80%932009%29.svg.png"
+            "nombre": "Ecuador",
+            "población": "17.037.000hab",
+            "superficie": "256.370Km2",
+            "idioma": "Espaniol",
+            "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Ecuador_%281900%E2%80%932009%29.svg/300px-Flag_of_Ecuador_%281900%E2%80%932009%29.svg.png"
         }
     ]
 }
