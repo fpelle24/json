@@ -1,6 +1,5 @@
-{
-    "nombre": "paises",
-    "listado": [
+      
+[
         {
             "nombre": "Brazil",
             "poblacion": "211.000.000hab",
@@ -36,5 +35,4 @@
             "idioma": "Espaniol",
             "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Ecuador_%281900%E2%80%932009%29.svg/300px-Flag_of_Ecuador_%281900%E2%80%932009%29.svg.png"
         }
-    ]
-}
+]
