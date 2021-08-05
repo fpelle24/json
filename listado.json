@@ -6,21 +6,21 @@
             "Población": "211.000.000hab",
             "Superficie": "8.516.000Km2",
             "Idioma": "Portugués",
-            "Bandera": "1"
+            "Bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/300px-Flag_of_Brazil.svg.png"
         },
         {
             "Nombre": "Argentina",
             "Población": "44.900.000hab",
             "Superficie": "2.780.400Km2",
             "Idioma": "Español",
-            "Bandera": "2"
+            "Bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/200px-Flag_of_Argentina.svg.png"
         },
         {
             "Nombre": "Chile",
             "Población": "18.095.000hab",
             "Superficie": "756.950Km2",
             "Idioma": "Español",
-            "Bandera": "3"
+            "Bandera": "https://viajeaamerica.com/wp-content/uploads/2013/05/Bandera-chilena.jpg"
         },
         {
             "Nombre": "Venezuela",
@@ -34,7 +34,7 @@
             "Población": "17.037.000hab",
             "Superficie": "256.370Km2",
             "Idioma": "Español",
-            "Bandera": "5"
+            "Bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Ecuador_%281900%E2%80%932009%29.svg/300px-Flag_of_Ecuador_%281900%E2%80%932009%29.svg.png"
         }
     ]
 }
