@@ -1,0 +1,40 @@
+{
+    "nombre": "Países",
+    "listado": [
+        {
+            "Nombre": "Brazil",
+            "Población": "211.000.000hab",
+            "Superficie": "8.516.000Km2",
+            "Idioma": "Portugués",
+            "Bandera": "1"
+        },
+        {
+            "Nombre": "Argentina",
+            "Población": "44.900.000hab",
+            "Superficie": "2.780.400Km2",
+            "Idioma": "Español",
+            "Bandera": "2"
+        },
+        {
+            "Nombre": "Chile",
+            "Población": "18.095.000hab",
+            "Superficie": "756.950Km2",
+            "Idioma": "Español",
+            "Bandera": "3"
+        },
+        {
+            "Nombre": "Venezuela",
+            "Población": "28.515.800hab",
+            "Superficie": "912.050Km2",
+            "Idioma": "Español",
+            "Bandera": "4"
+        },
+        {
+            "Nombre": "Ecuador",
+            "Población": "17.037.000hab",
+            "Superficie": "256.370Km2",
+            "Idioma": "Español",
+            "Bandera": "5"
+        }
+    ]
+}
